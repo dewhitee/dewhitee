@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dewhitee&custom_title=My+Github+stats&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true&hide=prs,issues,contribs) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dewhitee&layout=compact&langs_count=10&theme=tokyonight&hide=jupyter%20notebook)](https://github.com/dewhitee/github-readme-stats)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dewhitee&custom_title=My+Github+stats&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true&hide=prs,issues,contribs) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dewhitee&layout=compact&langs_count=10&theme=tokyonight&hide=jupyter%20notebook,html,css)](https://github.com/dewhitee/github-readme-stats)
 
 ## Links
 []()
